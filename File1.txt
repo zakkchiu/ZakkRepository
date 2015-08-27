@@ -6,5 +6,10 @@ add more change
 .....
 
 
+<<<<<<< Updated upstream
 This is change after stash ...
 and then apply stash
+=======
+
+This is update line before stash
+>>>>>>> Stashed changes
