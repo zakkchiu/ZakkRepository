@@ -8,3 +8,6 @@ fiel3
 =======
 stash change 
 >>>>>>> Stashed changes
+
+
+master

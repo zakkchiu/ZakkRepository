@@ -8,3 +8,5 @@ add more change
 =======
 stash xxxx ...
 >>>>>>> Stashed changes
+
+master
