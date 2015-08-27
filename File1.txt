@@ -13,3 +13,6 @@ and then apply stash
 
 This is update line before stash
 >>>>>>> Stashed changes
+
+
+v3.0
