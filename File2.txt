@@ -2,4 +2,8 @@ init file 2 text in master branch
 add more change
 add new line
 
+<<<<<<< HEAD
 master
+=======
+v2.0
+>>>>>>> v2.0

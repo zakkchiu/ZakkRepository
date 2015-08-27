@@ -5,8 +5,22 @@ add more change
 <<<<<<< Updated upstream
 .....
 .....
+<<<<<<< HEAD
 =======
 stash xxxx ...
 >>>>>>> Stashed changes
 
 master
+=======
+
+
+<<<<<<< Updated upstream
+This is change after stash ...
+and then apply stash
+=======
+
+This is update line before stash
+>>>>>>> Stashed changes
+
+v2.0
+>>>>>>> v2.0
