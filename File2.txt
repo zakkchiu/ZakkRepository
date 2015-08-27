@@ -3,7 +3,11 @@ add more change
 add new line
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 master
 =======
 v2.0
 >>>>>>> v2.0
+=======
+v3.0
+>>>>>>> v3.0
