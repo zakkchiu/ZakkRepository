@@ -1,6 +1,10 @@
 file 3 
 
+<<<<<<< Updated upstream
 
 fiel3 
 
 
+=======
+stash change 
+>>>>>>> Stashed changes

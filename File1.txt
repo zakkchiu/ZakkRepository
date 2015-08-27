@@ -2,5 +2,9 @@ init file 1 text in master branch -- add new line
 add more change
 
 
+<<<<<<< Updated upstream
 .....
 .....
+=======
+stash xxxx ...
+>>>>>>> Stashed changes
